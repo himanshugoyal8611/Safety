@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Safety Department - New Tab">07751b2cdbc61010acf17a61399619e1</grid_canvas>
+        <height>13</height>
+        <portal_widget display_value="Created 2020-07-13 15:10:12">cdb65b2cdbc61010acf17a613996197e</portal_widget>
+        <posx>6</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-13 22:10:12</sys_created_on>
+        <sys_id>c1b6576cdbc61010acf17a6139961974</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>07751b2cdbc61010acf17a61399619e1</sys_name>
+        <sys_package display_value="Safety" source="x_497589_safety">af3607e0db461010acf17a613996190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">af3607e0db461010acf17a613996190d</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c1b6576cdbc61010acf17a6139961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-13 22:10:34</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

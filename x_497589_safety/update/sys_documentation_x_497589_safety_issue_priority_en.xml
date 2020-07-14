@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="priority" label="Priority" language="en" table="x_497589_safety_issue">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <help/>
+            <hint/>
+            <label>Priority</label>
+            <language>en</language>
+            <name>x_497589_safety_issue</name>
+            <plural>Priorities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 21:10:53</sys_created_on>
+            <sys_id>dc290724dbc61010acf17a613996193e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Priority</sys_name>
+            <sys_package display_value="Safety" source="x_497589_safety">af3607e0db461010acf17a613996190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">af3607e0db461010acf17a613996190d</sys_scope>
+            <sys_update_name>sys_documentation_x_497589_safety_issue_priority_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 21:10:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
